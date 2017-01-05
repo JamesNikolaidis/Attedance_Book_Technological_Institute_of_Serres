@@ -1,0 +1,489 @@
+#administrator_field , #Professor_field, #Student_field{
+		border-width : 4px;
+		border-style : solid;
+		width : 400px;
+		heigth : 300px;
+		padding : 20px;
+		text-align : center;
+		margin-left : 15px;
+		font-size: 20px;
+		margin-top : 20px;
+		border-color : red;
+		border-radius: 5px;
+		
+		
+	}
+	
+	#administrator_field{
+		
+	}
+	
+	img{
+			
+			width  :100px;
+			height : 100px;
+	
+	}
+	
+	.form_design{
+			
+			border : 5px solid rgb(255,255,255);
+			border-radius : 5px;
+	
+	
+	}
+	.div_design{
+			position: relative;
+			width  :350px;
+			padding : 22px;
+			margin-left  :40%;
+			
+			
+	}
+	span , .selected_btn{
+		font-family : verdana;
+		font-size : 18px;
+		color : black;
+		
+	}
+	.input_design{
+		width : 200px;
+		color : black;
+	
+	}
+	#button_choose{
+		border : 10px solid rgb(255,255,255);
+		border-radius : 7px;
+		width : 700px;
+		margin-left : 30%;
+		padding : 20px;
+		height : 93%;
+		position : block;
+		
+		
+	
+	}
+	#teiser_ico{
+	margin-left : 90px;
+		width : 240px;
+		height : 120px;
+	
+	}
+	
+	.selected_btn
+{
+    border:5px solid red;
+	border-radius : 5px;
+    text-decoration:none;
+    font-family:helvetica;
+	width : 100px;
+	padding : 10px;
+    color:white !important;            
+    background:url('http://www.lessardstephens.com/layout/images/slideshow_big.png') repeat-x;
+}
+
+
+
+
+/* Professors Index Page CSS */
+	#dist_menu{
+		margin-left: -10px;
+		margin-top : -10px;
+		width : 101.2%;
+		background-color : black;
+		
+		
+	}
+	.Dist_menu_buttons{
+		
+		border : 2px solid rgb(0,0,0);
+		border-radius : 4px;
+		width  :200px;
+		text-align  :center;
+		padding : 10px;
+		background: transparent;
+		color : orange;
+	
+		
+	}
+	
+	#first_page{
+		
+		font-size :15px;
+		margin-left : 2px;
+		
+	}
+	
+	#insert_stu, #insert_pr , #insert_la{
+		
+		font-size :20px;
+		margin-left : 10px;
+		
+	}
+	
+	button:hover{font-family:impact;
+	background-color : white;
+	
+	}
+	
+	/* Professors Index Page CSS */
+	
+	
+	
+/* View Labs from Professor   Page CSS */
+	
+
+.professors_details_input:disabled {
+    background: white;
+	text-align : center;
+	border:none;
+
+	margin-left : 100px;
+	border-bottom-length : 4px;
+	border-bottom-color  : red;
+	border-bottom-style : solid;
+
+}
+
+.professors_details_input {
+    background: white;
+	text-align : center;
+	border:none;
+
+	margin-left : 100px;
+	border-bottom-length : 4px;
+	border-bottom-color  : red;
+	border-bottom-style : solid;
+
+}
+#professor_email_details, #professor_id_details{
+	margin-left :132px;
+}
+
+.professor_information_form{
+	
+	margin-left : 15%;
+	border-style : solid;
+	border-width  : 4px;
+	width  :400px;
+	padding : 15px;
+	border-radius : 5px;
+	
+	
+	
+}
+
+.professor_information_form1{
+	margin-left : 15%;
+	width  :400px;
+	padding : 10px;
+	 border : none ; border-top-style:solid ; border-bottom-style:solid;
+	
+	
+}
+
+p{
+	font-family : verdana;
+	font-style  : italic;
+	
+	
+}
+	
+/* View Labs from Professor   Page CSS */
+	
+	
+/* Administrator index Page CSS */	
+
+
+	
+	.delete_professor_button{
+		border : 2px solid rgb(0,0,0);
+		border-radius : 4px;
+		width  :190px;
+		height : 35px;
+		text-align  :center;
+		background: transparent;
+		color : orange;
+		
+		
+	}
+	
+	#first_page{
+		
+		font-size :20px;
+		margin-left : 2px;
+		
+	}
+	
+	#insert_stu, #insert_pr ,#insert_la,#insert_student_to_lab{
+		
+		font-size :14px;
+		margin-left : 10px;
+		
+	}
+	
+	button:hover{font-family:impact;
+	background-color : white;
+	
+	}
+	
+	#delete_professor_div{
+		border : 2px solid rgb(255,255,255);
+		margin-top  : 2px;
+		margin-left : 26%;
+		width : 190px;
+		background-color : black;
+	}
+	#view_all_professor_div{
+		border : 2px solid rgb(255,255,255);
+		margin-top  : 4px;
+		margin-left : 26%;
+		width : 190px;
+		background-color : black;
+		
+		
+	}
+	
+	
+	
+	#delete_student_div{
+		border : 2px solid rgb(255,255,255);
+		margin-top  : 2px;
+		margin-left : 12%;
+		width : 190px;
+		background-color : black;
+		
+		
+	}
+	
+	#view_student_div{
+			border : 2px solid rgb(255,255,255);
+		margin-top  : 4px;
+		margin-left : 12%;
+		width : 190px;
+		background-color : black;
+		
+	}
+	
+	#delete_lab_div{
+		border : 2px solid rgb(255,255,255);
+		margin-top  : 2px;
+		margin-left : 40%;
+		width : 190px;
+		background-color : black;
+		
+	}
+	#delete_lab_div1{
+			border : 2px solid rgb(255,255,255);
+		margin-top  : 4px;
+		margin-left : 40%;
+		width : 190px;
+		background-color : black;
+		
+	}
+	#administrator_welcome_message{
+			position : absolute;
+			background-color : white;
+			width : 90%;
+			margin-top : 70px;
+			margin-left : 5%;
+			border-radius : 3px;
+			border : 5px solid rgb(0,0,0);
+			height : 450px;
+			letter-spacing : 2px;
+			font-family : verdana;
+			padding : 20px;
+			
+		
+	}
+	#administrator_welcome_message > h2{
+		
+		text-align:center;
+	}
+	
+	 
+/* Administrator index Page CSS  END */		
+
+
+/* Insert New student Page index Page CSS */
+
+	#general_div{
+			border : 5px solid rgb(0,0,0);
+			border-radius  : 4px;
+			margin-left  : 37%;
+			height : 93.8%;
+			width  : 30%;
+			text-align : center;
+			background-color : white;
+			
+			
+			
+		}
+		#insert_student_form{
+		margin-left : 20px;
+		margin-right : 20px;
+			
+		}
+		#student_aem_input,#student_name_input,#student_email_input,#student_password_input{
+			margin-left : 50px;
+			width : 250px;
+			color : orange;
+			font-familie : verdana;
+			border : none;
+			border-bottom-style :solid ;
+			text-align : center;
+			font-size  :15px;
+			border-bottom-color: black;
+			
+			
+		}
+		#student_lastname{
+			width : 250px;
+			color : orange;
+			font-familie : verdana;
+			border : none;
+			border-bottom-style :solid ;
+			text-align : center;
+			font-size  :15px;
+			border-bottom-color: black;
+			
+			
+		}
+		#name_div,#last_div,#email_div,{
+			
+			margin-top : 40px;
+		}
+		#save_student_button{
+			
+			margin-top : 40px;
+			border  : 3px solid rgb(0,0,0);
+			border-radius :4px;
+			width  :180px;
+			z-index  :3px;
+			height : 40px;
+			text-align : center;
+			color : orange;
+			font-size : 20px;
+			font-family : impact;
+		}
+		
+	/* Insert New Professor Page index Page CSS */
+	
+	
+	#professor_aem_input,#professor_name_input,#professor_email_input,#professor_password_input{
+			margin-left : 90px;
+			width : 250px;
+			color : orange;
+			font-familie : verdana;
+			border : none;
+			border-bottom-style :solid ;
+			text-align : center;
+			font-size  :15px;
+			border-bottom-color: black;
+			
+			
+		}
+		#professor_lastname{
+			width : 250px;
+			color : orange;
+			font-familie : verdana;
+			border : none;
+			border-bottom-style :solid ;
+			text-align : center;
+			font-size  :15px;
+			border-bottom-color: black;
+			
+			
+		}	
+	
+		#save_professor_button{
+			
+			margin-top : 40px;
+			border  : 3px solid rgb(0,0,0);
+			border-radius :4px;
+			width  :180px;
+			z-index  :3px;
+			height : 40px;
+			text-align : center;
+			color : orange;
+			font-size : 20px;
+			font-family : impact;
+		}
+		
+		
+		
+/* Insert New Lab Page index Page CSS */
+
+ .lab_page {
+		 
+		 font-family : none;
+	 }
+	 
+	 
+		#insert_lab_form{
+		margin-left : 20px;
+		margin-right : 20px;
+			
+		}
+		#lab_key_input,#lab_name_input,#lab_hour_input{
+			margin-left : 86px;
+			width : 250px;
+			color : orange;
+			font-familie : verdana;
+			border : none;
+			border-bottom-style :solid ;
+			text-align : center;
+			font-size  :15px;
+			border-bottom-color: black;
+			
+			
+		}
+		
+		#teacher_input{
+			margin-left : 50px;
+			width : 200px;
+			color : orange;
+			font-familie : verdana;
+			border : none;
+			border-bottom-style :solid ;
+			text-align : center;
+			font-size  :15px;
+			border-bottom-color: black;
+			
+		}
+		#Teacher_div{
+		margin-top : 10px;
+		margin-left : -20px;}
+		
+		
+		
+		#save_lab_button{
+			
+			margin-top : 40px;
+			border  : 3px solid rgb(0,0,0);
+			border-radius :4px;
+			width  :180px;
+			z-index  :3px;
+			height : 40px;
+			text-align : center;
+			color : orange;
+			font-size : 20px;
+			font-family : impact;
+		}
+
+		
+		
+		
+	
+		
+		#save_student_to_lab_button{
+	margin-left : 100%;
+	border-style : solid;
+	border-radius : 4px;
+	padding : 20px;
+	width  : 200px;
+	margin-top : 10%;
+	background  : transparent;
+	
+}
+
